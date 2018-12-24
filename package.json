@@ -1,0 +1,19 @@
+{
+  "name": "mailservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megaads-vn/node-mailservice.git"
+  },
+  "author": "MegaAds Inc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/megaads-vn/node-mailservice/issues"
+  },
+  "homepage": "https://github.com/megaads-vn/node-mailservice#readme"
+}
